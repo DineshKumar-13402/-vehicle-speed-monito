@@ -1,0 +1,9 @@
+mkdir assets
+## 🚦 Real-Time Vehicle Speed Monitoring – Project Preview
+
+![Vehicle Speed Monitoring Demo](assets/vehicle_speed_demo.gif)
+
+⚙️ Detects vehicle movement, estimates speed, and triggers alerts for overspeed violations using real-time video input. Built with Streamlit + OpenCV.
+git add .
+git commit -m "Added project preview GIF"
+git push
